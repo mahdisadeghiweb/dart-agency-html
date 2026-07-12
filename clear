@@ -1,0 +1,30 @@
+[33mcommit 9885125a2d637495c05c50c69eb7fd2b5c7db960[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: e329508 89a5ed4
+Author: mahdisadeghiweb <mahdi.sadeghi.web@gmail.com>
+Date:   Sun Jul 12 23:37:04 2026 +0330
+
+    fix-conflict
+
+[33mcommit 89a5ed4fcbb58d164802bec466df55c97b7c0e64[m[33m ([m[1;32msadeghi[m[33m)[m
+Author: mahdisadeghiweb <mahdi.sadeghi.web@gmail.com>
+Date:   Sun Jul 12 23:24:03 2026 +0330
+
+    change-color
+
+[33mcommit e32950828b2c529a1d4f1608a271856cfd56cb07[m
+Author: mahdisadeghiweb <mahdi.sadeghi.web@gmail.com>
+Date:   Sun Jul 12 17:24:50 2026 +0330
+
+    change-color-theme
+
+[33mcommit 77d1fdb899efaa55f44e4c5a8ac2bf08c0637589[m
+Author: mahdisadeghiweb <mahdi.sadeghi.web@gmail.com>
+Date:   Sun Jul 12 17:04:50 2026 +0330
+
+    add-sadeghi-info file
+
+[33mcommit ea1decffa5b91397e08686ad600d0ab76278174b[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: mahdisadeghiweb <mahdi.sadeghi.web@gmail.com>
+Date:   Sun Jul 12 15:33:24 2026 +0330
+
+    initial commit
